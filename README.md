@@ -11,7 +11,9 @@ This project demonstrates a basic **CRUD** (Create, Read, Update, Delete) applic
 - ASP.NET Web Forms  
 - ADO.NET  
 - SQL Server  
-- C#  
+- C#
+- OOP
+- SOLID
 
 ---
 
@@ -96,7 +98,7 @@ Update the database connection string in Web.config.
 
 Open the solution in Visual Studio and run it.
 
-Login via Login.aspx, then manage books via CRUD.aspx.
+Login via Login.aspx  User Name= admin & Password=12345  , then manage books via CRUD.aspx.
 👨‍💻 Author
 
 Created by Mohamed Elzoghby
