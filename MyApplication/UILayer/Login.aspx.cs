@@ -25,6 +25,7 @@ namespace MyApplication
             }
             else
             {
+                Session["username"]= LoginPage.UserName;
                 Response.Redirect("CRUD.aspx");
             }
         }
